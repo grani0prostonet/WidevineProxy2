@@ -1,4 +1,4 @@
-import "./protobuf.min.js";
+7import "./protobuf.min.js";
 import "./license_protocol.js";
 import "./forge.min.js";
 
